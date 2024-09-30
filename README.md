@@ -4,6 +4,13 @@ Every day, we set goals for ourselves, but staying motivated and seeing real pro
 
 That's where "Milestone" comes in. It's a simple app that helps you reach your goals step by step by journaling the process. Here's how it works: you snap a picture every day to mark your progress and keep your streak alive. At the end of the month, the app puts together a time-lapse video, showing how far you've come. It's like a visual pat on the back to keep you going and make your journey more rewarding. So, you've got this! Let Milestone help you crush those goals, one step at a time.
 
+## Winner - Hack GT 11
+- **Github** - Most Creative Use of Github
+
+- **National Security Agency** - Cloud Security Challenge (Send in the Clouds, They're Already Here (and Secure): 2nd Runners Up
+
+- [Hack GT Devpost Link](https://devpost.com/software/milestone)
+
 
 ## 📑Table of Contents
 - [💁Meet the Team](#meet-the-team)
